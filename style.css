@@ -3,3 +3,10 @@ background-color: rgb(228, 188, 212);
 font-family:Playfair Display;
 color: rgb(179, 228, 211);
 }
+header{
+    font-size:50px;
+    text-align: center ;
+}
+.top1{ 
+    background-color: rgb(245, 168, 154);
+}
